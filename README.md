@@ -1,5 +1,13 @@
 <p align="center">
-  <img alt="acct" src="acct1-desktop.gif" width="70%">
+  <img alt="acct" src="acct1-desktop.gif" width="40%">
+</p>
+
+<p align="center">
+  <img alt="acct" src="acct2-desktop.gif" width="40%">
+</p>
+
+<p align="center">
+  <img alt="acct" src="acct3-desktop.gif" width="40%">
 </p>
 
 
