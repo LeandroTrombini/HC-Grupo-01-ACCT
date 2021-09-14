@@ -1,3 +1,8 @@
+<p align="center">
+  <img alt="acct" src="acct1-desktop.gif" width="70%">
+</p>
+
+
 # Projeto final | Grupo 01 ACCT - Hiring Coders 2021
 
 ## Project: _E-Commerce - Temática ACCT_
