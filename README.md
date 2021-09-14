@@ -1,3 +1,5 @@
+# Desktop
+
 <p align="center" border="black">
   <img alt="acct" src="acct1-desktop.gif" width="40%">
 </p>
@@ -8,6 +10,16 @@
 
 <p align="center">
   <img alt="acct" src="acct3-desktop.gif" width="40%">
+</p>
+
+# Mobile
+
+<p align="center">
+  <img alt="acct" src="acct1-mobile.gif" width="40%">
+</p>
+
+<p align="center">
+  <img alt="acct" src="acct2-mobile.gif" width="40%">
 </p>
 
 
