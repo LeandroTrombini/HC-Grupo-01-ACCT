@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" border="black">
   <img alt="acct" src="acct1-desktop.gif" width="40%">
 </p>
 
